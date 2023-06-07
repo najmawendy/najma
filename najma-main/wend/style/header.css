@@ -30,11 +30,6 @@
     top: 100%;
 }
 
-
-
-
-
-fsvttmko9ṹ
 .container__botao:checked ~ .lista-menu{
     display: block;
 }
@@ -46,7 +41,7 @@ fsvttmko9ṹ
 }
 
 .lista-menu__titulo{
-    color: var(--laranja);
+    color: var(laranja);
 }
 
 .lista-menu__link{
